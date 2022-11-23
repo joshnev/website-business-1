@@ -1,0 +1,114 @@
+{
+  "headerData": {
+    "logoImgV1": "/images/header/jndeveloper1111.svg",
+    "logoImgV2": "/images/header/jndeveloper2222.svg",
+    "btnText": "Contact us"
+  },
+
+  "navData": [
+    { "name": "About", "href": "/" },
+    { "name": "How to", "href": "/" },
+    { "name": "Faqs", "href": "/" }
+  ],
+
+  "heroData": {
+    "title": "Your epic web developer & consultant.",
+    "sceneImg": "/images/hero/scene.svg",
+    "manImg": "/images/hero/testtest3.svg",
+    "btnText": "Find out more"
+  },
+
+  "aboutData": {
+    "title": "About us",
+    "subtitle": "We design and develop beautiful online websites. Through our bespoke coding, we can make your presence stand out from all the online noise. Our overheads are low meaning the cost for you is competitive.",
+    "text": "Did you know that an optimised website can generate more traffic, meaning an increase in potential customers.",
+    "aboutImg": "/images/about/about-man.svg",
+    "tickImg": "/images/about/tick1.svg"
+  },
+
+  "howData": {
+    "title": "What. We. Do.",
+    "subtitle": "Here at JN Developers we offer rich single or multi page web applications, built with our own code and the latest technology. We can design and code your ideas from the ground up to a fully functional product that not only looks crisp across all platforms, but performs quickly. Your bespoke website has no boundaries, if you have an idea or a dream, or simply need an overhaul on your orginal site, we will make it happen. Check out some of our work here.",
+    "subtitle2": "What else do we do? on top of delivering fast, crisp beautiful websites we can:",
+    "man2Img": "/images/how/man2resize.svg"
+  },
+
+  "faqData": {
+    "pretitle": "faq",
+    "title": "Some of your most asked questions:",
+    "boyImg": "/images/faq/boy.svg",
+    "accordions": [
+      {
+        "question": "What is a single page application?",
+        "answer": "A single page application refers to having all your content on one page."
+      },
+      {
+        "question": "What is a multi-page application?",
+        "answer": "A multi page application can have the same characteristcs as a single page, however, there may be additional pages and links."
+      },
+      {
+        "question": "How do I change/update content on my website?",
+        "answer": "Easy peasy! On completion of your website, you will recieve a login to Sanity. Once logged in, you will be able to update all of your content with ease. We will show you how easy it is! No confusing code."
+      },
+      {
+        "question": "How do I get my site live so people can visit it?",
+        "answer": "All packages (unless specifically told you just want a design) include host set up. Once we have you live we will send you an easy how to guide if you ever wanted to change your hosting/domain. Or we can do it for you."
+      }
+    ]
+  },
+  "testimonialData": {
+    "pretitle": "testimonials",
+    "title": "What Our Clients Say!",
+    "happyImg": "/images/testimonials/happyemoji.svg",
+    "clients": [
+      {
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "image": "/images/testimonials/avatar1.png",
+        "name": "Isak Pettersson"
+      },
+      {
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "image": "/images/testimonials/avatar2.png",
+        "name": "Simon Sandberg"
+      },
+      {
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "image": "/images/testimonials/avatar3.png",
+        "name": "Melissa Doe"
+      },
+      {
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "image": "/images/testimonials/avatar1.png",
+        "name": "Isak Pettersson"
+      },
+      {
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "image": "/images/testimonials/avatar2.png",
+        "name": "Simon Sandberg"
+      },
+      {
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "image": "/images/testimonials/avatar3.png",
+        "name": "Melissa Doe"
+      }
+    ]
+  },
+  "footerData": {
+    "text": "Have a question or want to know more? contact us for a chat today!",
+    "logo": "/images/footer/jndeveloper111.svg",
+    "links": [
+      { "name": "about", "href": "/" },
+      { "name": "how to", "href": "/" },
+      { "name": "faqs", "href": "/" }
+    ],
+    "form": {
+      "labelName": "Name",
+      "placeholderName": "Your name",
+      "labelEmail": "Email address",
+      "placeholderEmail": "Your email adddress",
+      "labelMessage": "Message",
+      "placeholderMessage": "Your message",
+      "btnText": "Send Here"
+    }
+  }
+}
